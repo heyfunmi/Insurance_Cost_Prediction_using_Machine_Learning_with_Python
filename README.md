@@ -1,1 +1,1 @@
-A linear regression model to detect cost of insurance.
+A linear regression model to predict cost of insurance.
